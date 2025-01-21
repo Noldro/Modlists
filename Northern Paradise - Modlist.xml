@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModsConfigData>
+    <version>1.5.4297 rev1078</version>
+    <activeMods>
+        <li>brrainz.harmony</li>
+        <li>ludeon.rimworld</li>
+        <li>ludeon.rimworld.royalty</li>
+        <li>ludeon.rimworld.ideology</li>
+        <li>ludeon.rimworld.biotech</li>
+        <li>ludeon.rimworld.anomaly</li>
+        <li>mlie.savemaps</li>
+        <li>zylle.mapdesigner</li>
+        <li>m00nl1ght.mappreview</li>
+        <li>mlie.giveupyourbuilding</li>
+        <li>brrainz.cameraplus</li>
+        <li>neptimus7.progressrenderer</li>
+        <li>m00nl1ght.geologicallandforms</li>
+        <li>funkyshit.mods.worldedit</li>
+        <li>madarauchiha.custommapsizes</li>
+        <li>oskarpotocki.vanillafactionsexpanded.core</li>
+        <li>regrowth.botr.core</li>
+        <li>regrowth.botr.tundraexpansion</li>
+        <li>vanillaexpanded.vfepropsanddecor</li>
+        <li>oracle.miscellania</li>
+        <li>imranfish.xmlextensions</li>
+        <li>regrowth.botr.borealforestexpansion</li>
+        <li>syrchalis.processor.framework</li>
+        <li>dankpyon.medieval.overhaul</li>
+        <li>zal.majesticfoilageframework</li>
+        <li>zal.majesticcmt</li>
+        <li>pathfinding.framework</li>
+        <li>biomesteam.biomescore</li>
+        <li>biomesteam.biomesislands</li>
+        <li>ih.clean.textures</li>
+        <li>ih.clean.textures.less.glare</li>
+        <li>m00nl1ght.geologicallandforms.biometransitions</li>
+        <li>scherub.planningextended</li>
+    </activeMods>
+    <knownExpansions>
+        <li>ludeon.rimworld</li>
+        <li>ludeon.rimworld.royalty</li>
+        <li>ludeon.rimworld.ideology</li>
+        <li>ludeon.rimworld.biotech</li>
+        <li>ludeon.rimworld.anomaly</li>
+    </knownExpansions>
+</ModsConfigData>
